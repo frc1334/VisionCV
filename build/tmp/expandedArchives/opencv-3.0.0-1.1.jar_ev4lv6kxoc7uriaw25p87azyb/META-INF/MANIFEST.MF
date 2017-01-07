@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Bytedeco
+Implementation-Title: JavaCPP Presets for OpenCV
+Implementation-Version: 3.0.0-1.1
+Built-By: root
+Build-Jdk: 1.7.0_85
+Class-Path: ./ javacpp.jar opencv-linux-arm.jar opencv-linux-x86.jar o
+ pencv-linux-x86_64.jar opencv-macosx-x86.jar opencv-macosx-x86_64.jar
+  opencv-windows-x86.jar opencv-windows-x86_64.jar javacpp-1.1.jar
+Specification-Vendor: Bytedeco
+Name: org/bytedeco/javacpp/presets/
+Specification-Title: JavaCPP Presets for OpenCV
+Created-By: Apache Maven 3.0.5
+Specification-Version: 3.0.0-1.1
+Archiver-Version: Plexus Archiver
+
